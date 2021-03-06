@@ -11,8 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  intl: ^0.16.1
-  intl_translation: ^0.17.10+1
+  intl: ^0.17.0
+  intl_translation:
+    git: https://github.com/ayman3000/intl_translation.git #https://github.com/dart-lang/intl_translation.git #^0.17.10+1
 
 flutter:
   assets:
